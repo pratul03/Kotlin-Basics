@@ -1,8 +1,0 @@
-# Ignore everything
-*
-
-# Allow only .kt files
-!*.kt
-
-# Exclude directories while allowing .kt files inside them
-!*/
